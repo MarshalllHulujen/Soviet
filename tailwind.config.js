@@ -14,7 +14,10 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      'sans': ['Helvetica', 'Arial', 'sans-serif', 'Expletus'],
+      'sans': ['Expletus'],
+    },
+    spacing: {
+      '4.8': "48px" 
     }
   },
   plugins: [],
