@@ -14,7 +14,7 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      'sans': ['Expletus'],
+      'sans': 'Expletus Sans',
     },
     spacing: {
       '4.8': "48px" 

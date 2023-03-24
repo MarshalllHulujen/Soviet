@@ -6,7 +6,6 @@ export const Home = () => {
     return(
         <div>
             <Header/>
-            awdsad
             <Footer/>
         </div>
     )
