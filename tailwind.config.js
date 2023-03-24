@@ -9,9 +9,13 @@ module.exports = {
     "./src/Home.jsx",
     "./src/Login.jsx",
     "./src/News.jsx",
+    "./src/components/assets/Header.jsx"
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'sans': ['Helvetica', 'Arial', 'sans-serif', 'Expletus'],
+    }
   },
   plugins: [],
 };
