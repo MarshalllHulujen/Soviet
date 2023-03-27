@@ -22,8 +22,7 @@ function App() {
         <Route path='/Login' element={<Login/>} />
         <Route path='/News' element={<News/>} />
         <Route path='/About' element={<About/>} />
-        </Route>
-  
+      </Route>
     </Routes>
     </BrowserRouter>
   )
